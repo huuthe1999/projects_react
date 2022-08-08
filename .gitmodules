@@ -1,0 +1,18 @@
+[submodule "Day16"]
+	path = Day16
+	url = https://github.com/huuthe1999/Day16
+[submodule "Day19"]
+	path = Day19
+	url = https://github.com/huuthe1999/Day19
+[submodule "Day20"]
+	path = Day20
+	url = https://github.com/huuthe1999/Day20
+[submodule "Day24"]
+	path = Day24
+	url = https://github.com/huuthe1999/Day24
+[submodule "day26-day27"]
+	path = day26-day27
+	url = https://github.com/huuthe1999/day26-day27
+[submodule "day28"]
+	path = day28
+	url = https://github.com/huuthe1999/day28
